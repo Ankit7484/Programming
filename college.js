@@ -1,7 +1,8 @@
 var images = [
-"images/campus1.jpg",
-"images/campus2.jpg",
-"images/campus3.jpg"
+"Navbar.jpeg",
+"Image1.jpg",
+"Image2.jpeg",
+"Image3.jpeg"
 ];
 var index = 0;
 function changeImage(){
